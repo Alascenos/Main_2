@@ -1,0 +1,15 @@
+.btn:hover{
+    background-color: rgb(143, 102, 102) ;
+}
+
+.btn{
+    color: rgb(182, 145, 145) ;
+}
+
+.btn-outline-success{
+    border: solid 2px rgb(82, 46, 46);
+}
+
+.job{
+     background-color: #D4AFB9;
+}
